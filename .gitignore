@@ -18,7 +18,7 @@ outputs/*
 
 # W&B
 wandb/
-
+data/
 # OS / IDE
 .DS_Store
 .idea/
