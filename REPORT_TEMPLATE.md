@@ -6,7 +6,7 @@
 - Mã sinh viên: 1671040013
 - Lớp: KHMT 16-01
 - Link GitHub repo: https://github.com/FIT-DNU-CS-16-01/csc4005-lab3-1dcnn-VTV-24
-- Link W&B run/project: https://wandb.ai/nguyenvanhuy25021982-dai-hoc
+- Link W&B run/project: [https://wandb.ai/nguyenvanhuy25021982-dai-hoc](https://wandb.ai/nguyenvanhuy25021982-dai-hoc/csc4005-lab3-urbansound-1dcnn?nw=nwusernguyenvanhuy25021982)
 
 ---
 
